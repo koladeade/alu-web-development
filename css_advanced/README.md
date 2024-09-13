@@ -1,1 +1,2 @@
 This project is following the HTML structure created earler. For this project we are going to focus on the styling of the page using CSS. It is basically making the code written in the HTML advanced more stylish, attractive, interactive and user friendly. 
+![README.jpg](README.jpg)
